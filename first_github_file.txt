@@ -4,4 +4,6 @@ This is another text written on github repository.
 
 This is third line added by sarita dahiya as a new line.
 
-This is fourth line added by sonupradeep on github online platform
+This is fourth line added by sonupradeep on github online platform.
+
+This is fifth line added by Sarita after merging changes from sonupradeep remote repo
